@@ -1,4 +1,4 @@
-# askuniversal.netlify.app
+# askuniversal
 
 Large, multi-page corporate website for ASK LAW FIRM (Tax, Valuation & Financial Advisory). Built as a static site with direct-to-HTML content editing and organized content sections for services, industries, resources, and careers.
 
